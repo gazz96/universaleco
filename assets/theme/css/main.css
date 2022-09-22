@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-primary {
+    color: #41BBAC !important
+}
+
+.btn-primary {
+    background-color: #41BBAC !important;
+    border-color: #41BBAC !important;
+}
+
+.main-primary {
+    border-bottom: 2px solid #41BBAC !important;
+}
+
+.main-primary li > a {
+    color: #000000 !important;  
+    font-size: 16px;
+    margin-right: 40px;
+}
+
+.bg-primary {
+    background-color: #41BBAC !important;
+}
+
+.border-primary {
+    border-color: #41BBAC !important;
+}
+
+.page-hero {
+    background: linear-gradient(90.23deg, #FFFFFF 43.73%, rgba(241, 246, 246, 0) 94.36%);
+}
+
+.mb-6 {
+    margin-bottom: 6rem !important;
+}
